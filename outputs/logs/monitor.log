@@ -1,0 +1,111 @@
+[12:19:23] 46/84 | O-O RDF done
+[12:21:23] 47/84 | rdf[1:] /= norm * (rr * rr + (dr * dr / 12))
+[12:23:23] 47/84 | O-O RDF done
+[12:25:23] 47/84 | O-O RDF done
+[12:27:23] 47/84 | O-O RDF done
+[12:29:23] 48/84 | MSD done
+[12:31:23] 48/84 | O-O RDF done
+[12:33:23] 49/84 | O-O RDF done
+[12:35:23] 49/84 | MSD done
+[12:37:23] 49/84 | O-O RDF done
+[12:39:23] 50/84 | O-O RDF done
+[12:41:24] 50/84 | MSD done
+[12:43:24] 50/84 | O-O RDF done
+[12:45:24] 51/84 | O-O RDF done
+[12:47:24] 51/84 | MSD done
+[12:49:24] 51/84 | O-O RDF done
+[12:51:24] 51/84 | O-O RDF done
+[12:53:24] 52/84 | O-O RDF done
+[12:55:24] 52/84 | MSD done
+[12:57:24] 52/84 | O-O RDF done
+[12:59:24] 52/84 | O-O RDF done
+[13:01:24] 53/84 | [compute] 135/400K
+[13:03:24] 53/84 | MSD done
+[13:05:24] 53/84 | O-O RDF done
+[13:07:24] 54/84 | O-O RDF done
+[13:09:24] 54/84 | MSD done
+[13:11:24] 55/84 | O-O RDF done
+[13:13:24] 55/84 | MSD done
+[13:15:24] 55/84 | O-O RDF done
+[13:17:25] 56/84 | MSD done
+[13:19:25] 57/84 | O-O RDF done
+[13:21:25] 57/84 | MSD done
+[13:23:25] 57/84 | MSD done
+[13:25:25] 57/84 | O-O RDF done
+[13:27:25] 57/84 | O-O RDF done
+[13:29:25] 57/84 | O-O RDF done
+[13:31:25] 57/84 | O-O RDF done
+[13:33:25] 58/84 | O-O RDF done
+[13:35:25] 58/84 | MSD done
+[13:37:25] 58/84 | O-O RDF done
+[13:39:25] 58/84 | O-O RDF done
+[13:41:25] 59/84 | O-O RDF done
+[13:43:25] 59/84 | MSD done
+[13:45:25] 59/84 | O-O RDF done
+[13:47:25] 60/84 | O-O RDF done
+[13:49:25] 60/84 | MSD done
+[13:51:25] 60/84 | O-O RDF done
+[13:53:25] 60/84 | O-O RDF done
+[13:55:25] 61/84 | O-O RDF done
+[13:57:26] 61/84 | MSD done
+[13:59:26] 61/84 | O-O RDF done
+[14:01:26] 62/84 | O-O RDF done
+[14:03:26] 62/84 | MSD done
+[14:05:26] 62/84 | MSD done
+[14:07:26] 62/84 | O-O RDF done
+[14:09:26] 62/84 | O-O RDF done
+[14:11:26] 63/84 | ADF done (237600 angles)
+[14:13:26] 63/84 | MSD done
+[14:15:26] 63/84 | O-O RDF done
+[14:17:26] 63/84 | O-O RDF done
+[14:19:26] 64/84 | O-H RDF done
+[14:21:26] 64/84 | O-O RDF done
+[14:23:26] 65/84 | O-O RDF done
+[14:25:26] 65/84 | MSD done
+[14:27:26] 66/84 | O-O RDF done
+[14:29:26] 66/84 | MSD done
+[14:31:26] 66/84 | O-O RDF done
+[14:33:27] 67/84 | O-O RDF done
+[14:35:27] 67/84 | MSD done
+[14:37:27] 67/84 | MSD done
+[14:39:27] 67/84 | O-O RDF done
+[14:41:27] 67/84 | O-O RDF done
+[14:43:27] 67/84 | O-O RDF done
+[14:45:27] 68/84 | O-H RDF done
+[14:47:27] 68/84 | MSD done
+[14:49:27] 68/84 | O-O RDF done
+[14:51:27] 68/84 | O-O RDF done
+[14:53:27] 68/84 | O-O RDF done
+[14:55:27] 69/84 | O-O RDF done
+[14:57:27] 69/84 | MSD done
+[14:59:27] 69/84 | MSD done
+[15:01:27] 69/84 | O-O RDF done
+[15:03:27] 69/84 | O-O RDF done
+[16:49:57] 69/84 | O-O RDF done
+[16:51:57] 70/84 | ADF done (300100 angles)
+[16:53:57] 72/84 | O-O RDF done
+[16:55:57] 72/84 | O-O RDF done
+[16:57:57] 72/84 | O-O RDF done
+[16:59:58] 74/84 | O-O RDF done
+[17:01:58] 74/84 | MSD done
+[17:03:58] 74/84 | O-O RDF done
+[17:05:58] 74/84 | O-O RDF done
+[17:07:58] 76/84 | O-O RDF done
+[17:09:58] 76/84 | MSD done
+[17:11:58] 76/84 | O-O RDF done
+[17:13:58] 77/84 | O-O RDF done
+[17:15:58] 77/84 | MSD done
+[17:17:58] 77/84 | O-O RDF done
+[17:19:58] 78/84 | MSD done
+[17:21:58] 78/84 | O-O RDF done
+[17:23:58] 79/84 | O-H RDF done
+[17:25:58] 79/84 | O-O RDF done
+[17:27:58] 80/84 | MSD done
+[17:29:58] 80/84 | O-O RDF done
+[17:31:59] 81/84 | MSD done
+[17:33:59] 82/84 | O-O RDF done
+[17:35:59] 82/84 | O-O RDF done
+[17:37:59] 83/84 | O-O RDF done
+[17:39:59] 83/84 | O-O RDF done
+[17:41:59] 84/84 | O-O RDF done
+DONE\! HTML saved.

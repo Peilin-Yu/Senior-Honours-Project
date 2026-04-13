@@ -1,0 +1,520 @@
+Found 84 trajectories.
+  [cache]   090/1000K
+  [cache]   090/2000K
+  [cache]   090/800K
+  [cache]   100/300K
+  [cache]   100/400K
+  [cache]   100/500K
+  [cache]   100/600K
+  [cache]   100/700K
+  [compute] 100/800K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [cache]   110/400K
+  [compute] 110/600K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 110/700K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 110/800K
+            1792 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (179200 angles)
+            Percolation sweep done
+  [compute] 112/400K
+            201 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (20100 angles)
+            Percolation sweep done
+  [compute] 115/1000K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 115/400K
+            2001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (200100 angles)
+            Percolation sweep done
+  [compute] 115/500K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 115/600K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 115/601K
+            1000 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100000 angles)
+            Percolation sweep done
+  [compute] 115/700K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 115/800K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 115/900K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 120/1000K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 120/400K
+            5569 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (556900 angles)
+            Percolation sweep done
+  [compute] 120/500K
+            999 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (99900 angles)
+            Percolation sweep done
+  [compute] 120/500K_equil
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 120/600K
+            2001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (200100 angles)
+            Percolation sweep done
+  [compute] 120/600K_equil
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 120/700K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 120/800K
+            2001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (200100 angles)
+            Percolation sweep done
+  [compute] 120/800K_equil
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 120/900K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 125/1000K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 125/400K
+            2010 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (201000 angles)
+            Percolation sweep done
+  [compute] 125/400K_equil
+            2011 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (201100 angles)
+            Percolation sweep done
+  [compute] 125/500K
+            1021 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (102100 angles)
+            Percolation sweep done
+  [compute] 125/600K
+            2001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (200100 angles)
+            Percolation sweep done
+  [compute] 125/700K
+            1000 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100000 angles)
+            Percolation sweep done
+  [compute] 125/800K
+            1011 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (101100 angles)
+            Percolation sweep done
+  [compute] 125/900K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 130/1000K
+            1380 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (138000 angles)
+            Percolation sweep done
+  [compute] 130/400K
+            2000 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (200000 angles)
+            Percolation sweep done
+  [compute] 130/500K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 130/600K
+            2554 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (255400 angles)
+            Percolation sweep done
+  [compute] 130/700K
+            2000 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (200000 angles)
+            Percolation sweep done
+  [compute] 130/800K
+            1586 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (158600 angles)
+            Percolation sweep done
+  [compute] 130/900K
+            1310 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (131000 angles)
+            Percolation sweep done
+  [compute] 132/400K
+            2998 frames
+            MSD done
+C:\Users\yupei\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\ase\geometry\rdf.py:99: RuntimeWarning: invalid value encountered in divide
+  rdf[1:] /= norm * (rr * rr + (dr * dr / 12))
+            O-O RDF done
+            O-H RDF done
+            ADF done (299700 angles)
+            Percolation sweep done
+  [compute] 132/600K
+            1758 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (175800 angles)
+            Percolation sweep done
+  [compute] 132/800K
+            1758 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (175800 angles)
+            Percolation sweep done
+  [compute] 134/400K
+            1743 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (174300 angles)
+            Percolation sweep done
+  [compute] 134/600K
+            2000 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (200000 angles)
+            Percolation sweep done
+  [compute] 134/601K
+            1741 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (174100 angles)
+            Percolation sweep done
+  [compute] 135/400K
+            1774 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (177400 angles)
+            Percolation sweep done
+  [compute] 135/500K
+            1073 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (107300 angles)
+            Percolation sweep done
+  [compute] 135/600K
+            1413 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (141300 angles)
+            Percolation sweep done
+  [compute] 135/700K
+            901 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (90100 angles)
+            Percolation sweep done
+  [compute] 135/800K
+            4001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (400100 angles)
+            Percolation sweep done
+  [compute] 137/400K
+            2096 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (209600 angles)
+            Percolation sweep done
+  [compute] 137/600K
+            2000 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (200000 angles)
+            Percolation sweep done
+  [compute] 137/800K
+            2000 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (200000 angles)
+            Percolation sweep done
+  [compute] 140/1000K
+            2011 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (201100 angles)
+            Percolation sweep done
+  [compute] 140/300K
+            2376 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (237600 angles)
+            Percolation sweep done
+  [compute] 140/400K
+            2354 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (235400 angles)
+            Percolation sweep done
+  [compute] 140/500K
+            1348 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (134800 angles)
+            Percolation sweep done
+  [compute] 140/500K_equil
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [compute] 140/600K
+            2005 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (200500 angles)
+            Percolation sweep done
+  [compute] 140/700K
+            3007 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (300700 angles)
+            Percolation sweep done
+  [compute] 140/800K
+            3001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (300100 angles)
+            Percolation sweep done
+  [compute] 140/900K
+            3001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (300100 angles)
+            Percolation sweep done
+  [compute] 150/400K
+            1001 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100100 angles)
+            Percolation sweep done
+  [cache]   150/500K
+  [compute] 150/600K
+            1101 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (110100 angles)
+            Percolation sweep done
+  [cache]   160/400K
+  [compute] 160/600K
+            2331 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (233100 angles)
+            Percolation sweep done
+  [cache]   160/800K
+  [compute] 180/400K
+            1893 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (189300 angles)
+            Percolation sweep done
+  [compute] 180/600K
+            1359 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (135900 angles)
+            Percolation sweep done
+  [compute] 180/800K
+            1548 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (154800 angles)
+            Percolation sweep done
+  [compute] 200/400K
+            1014 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (101400 angles)
+            Percolation sweep done
+  [compute] 200/600K
+            1317 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (131700 angles)
+            Percolation sweep done
+  [compute] 200/601K
+            873 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (87300 angles)
+            Percolation sweep done
+  [compute] 200/650K
+            1093 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (109300 angles)
+            Percolation sweep done
+  [compute] 200/800K
+            1000 frames
+            MSD done
+            O-O RDF done
+            O-H RDF done
+            ADF done (100000 angles)
+            Percolation sweep done
+Saved -> C:/Users/yupei/Desktop/SHP/analysis_all.html
